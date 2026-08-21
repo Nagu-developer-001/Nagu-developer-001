@@ -1,27 +1,162 @@
-# 💫 About Me:
-Hi, I'm Nagabhushana N, a developer from Bengaluru, India. I enjoy building full-stack web apps, AI-powered projects, and hackathon solutions using JavaScript, Python, Java, React, Node.js, and modern web technologies.<br><br>- I'm currently working on **MERN stack projects, AI-based tools, and hackathon projects**<br>- I'm looking to collaborate on **open-source, web development, AI/ML, and college tech projects**<br>- I'm looking for help with **advanced backend development, deployment, and AI/ML integration**<br>- I'm currently learning **DSA in Java, WebSockets, FastAPI, Next.js, and computer vision**<br>- Ask me about **JavaScript, MERN stack, Python, Java DSA, web apps, and hackathon projects**<br>- Fun fact: **I love turning ideas into real working projects**
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=220&section=header&text=Nagabhushana%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI-Powered%20Apps%20%7C%20Hackathon%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nagabhushana N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagabhoshanabhat@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+apps+with+AI;Turning+ideas+into+real+working+products" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nagu-developer-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nagu-developer-001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagu-developer-001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nagu-developer-001&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
+![Profile Views](https://komarev.com/ghpvc/?username=Nagu-developer-001&color=a78bfa&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Nagu-developer-001?label=Followers&style=flat-square&color=a78bfa)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nagu-developer-001&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nagu-developer-001&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔗 Connect With Me
+
+<div align="center">
+
+| LinkedIn | GitHub | Email | Instagram | Discord | Portfolio | Kaggle | Resume |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://linkedin.com/in/nagabhushana-n" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a> | <a href="https://github.com/Nagu-developer-001" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a> | <a href="mailto:nagabhoshanabhat@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/A78BFA" width="55" height="55" alt="Email"/></a> | <a href="https://instagram.com/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/A78BFA" width="55" height="55" alt="Instagram"/></a> | <a href="https://discord.com/" target="_blank"><img src="https://cdn.simpleicons.org/discord/A78BFA" width="55" height="55" alt="Discord"/></a> | <a href="https://your-portfolio-link.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/></a> | <a href="https://kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/></a> | <a href="https://your-resume-link.com/" target="_blank"><img src="https://cdn.simpleicons.org/adobeacrobatreader/A78BFA" width="55" height="55" alt="Resume"/></a> |
+
+</div>
+
+> Update the Portfolio, Instagram, Discord, Kaggle, and Resume links above with your actual URLs before publishing.
+
+---
+
+## 🛠️ Tech Stack
+
+### GenAI / LLMs
+
+<div align="center">
+
+| OpenAI | LangChain | Hugging Face | Ollama | Google Gemini |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/openai/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/langchain/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/huggingface/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/ollama/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55"/> |
+
+</div>
+
+### Languages
+
+<div align="center">
+
+| Python | JavaScript | TypeScript | Java | C | HTML5 | CSS3 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/> |
+
+</div>
+
+### AI & ML
+
+<div align="center">
+
+| TensorFlow | PyTorch | Scikit-learn | OpenCV | Keras |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55"/> |
+
+</div>
+
+### Data Science
+
+<div align="center">
+
+| NumPy | Pandas | Jupyter | Streamlit | Chart.js |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/streamlit/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/chartdotjs/A78BFA" width="55" height="55"/> |
+
+</div>
+
+### Web & App Dev
+
+<div align="center">
+
+| React | Next.js | Node.js | Express | Django | FastAPI | React Native | EJS | Vite | Socket.io |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/ejs/A78BFA" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/socketdotio/A78BFA" width="55" height="55"/> |
+
+</div>
+
+### Cloud & Infra
+
+<div align="center">
+
+| Vercel | Render | Jenkins | GitHub Actions |
+|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/vercel/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/render/A78BFA" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" height="55"/> |
+
+</div>
+
+### Databases
+
+<div align="center">
+
+| MongoDB | MySQL | SQLite |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55"/> |
+
+</div>
+
+### Dev Tools
+
+<div align="center">
+
+| Git | GitHub | GitLab | NPM | Nodemon | Canva | JWT | Three.js |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/nodemon/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/canva/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/jsonwebtokens/A78BFA" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="55" height="55"/> |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nagu-developer-001&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagu-developer-001&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Nagu-developer-001&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagu-developer-001&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭
+
+*"The best way to predict the future is to build it."*
+
+</div>
+
+---
+
+```
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+   >> Status: shipping code, learning fast, building with AI <<
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=150&section=footer" width="100%"/>
