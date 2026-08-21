@@ -31,16 +31,6 @@
 
 ## 🛠️ Tech Stack
 
-### GenAI / LLMs
-
-<div align="center">
-
-| OpenAI | LangChain | Hugging Face | Ollama | Google Gemini |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/openai/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/langchain/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/huggingface/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/ollama/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/googlegemini/A78BFA" width="55" height="55"/> |
-
-</div>
-
 ### Languages
 
 <div align="center">
@@ -55,9 +45,9 @@
 
 <div align="center">
 
-| TensorFlow | PyTorch | Scikit-learn | OpenCV | Keras |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55"/> |
+| OpenCV |
+|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/> |
 
 </div>
 
@@ -65,9 +55,9 @@
 
 <div align="center">
 
-| NumPy | Pandas | Jupyter | Streamlit | Chart.js |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/streamlit/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/chartdotjs/A78BFA" width="55" height="55"/> |
+| Streamlit | Chart.js |
+|:---:|:---:|
+| <img src="https://cdn.simpleicons.org/streamlit/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/chartdotjs/A78BFA" width="55" height="55"/> |
 
 </div>
 
