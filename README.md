@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Nagu-developer-001/Nagu-developer-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# 💫 About Me:
+# 💫 About Me:
 Hi, I'm Nagabhushana N, a developer from Bengaluru, India. I enjoy building full-stack web apps, AI-powered projects, and hackathon solutions using JavaScript, Python, Java, React, Node.js, and modern web technologies.<br><br>- I'm currently working on **MERN stack projects, AI-based tools, and hackathon projects**<br>- I'm looking to collaborate on **open-source, web development, AI/ML, and college tech projects**<br>- I'm looking for help with **advanced backend development, deployment, and AI/ML integration**<br>- I'm currently learning **DSA in Java, WebSockets, FastAPI, Next.js, and computer vision**<br>- Ask me about **JavaScript, MERN stack, Python, Java DSA, web apps, and hackathon projects**<br>- Fun fact: **I love turning ideas into real working projects**
 
 
@@ -34,9 +25,3 @@ Hi, I'm Nagabhushana N, a developer from Bengaluru, India. I enjoy building full
 [![](https://komarev.com/ghpvc/?username=Nagu-developer-001&icon=1&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
