@@ -172,4 +172,8 @@
 
 
 
-![snake gif](https://github.com/Nagu-developer-001/Nagu-developer-001/blob/output/github-snake-dark.svg
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagu-developer-001/Nagu-developer-001/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagu-developer-001/Nagu-developer-001/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nagu-developer-001/Nagu-developer-001/output/github-snake.svg" />
+</picture>
