@@ -1,152 +1,21 @@
-<div align="center">
+# 💫 About Me:
+Hi, I'm Nagabhushana N, a developer from Bengaluru, India. I enjoy building full-stack web apps, AI-powered projects, and hackathon solutions using JavaScript, Python, Java, React, Node.js, and modern web technologies.<br><br>- I'm currently working on **MERN stack projects, AI-based tools, and hackathon projects**<br>- I'm looking to collaborate on **open-source, web development, AI/ML, and college tech projects**<br>- I'm looking for help with **advanced backend development, deployment, and AI/ML integration**<br>- I'm currently learning **DSA in Java, WebSockets, FastAPI, Next.js, and computer vision**<br>- Ask me about **JavaScript, MERN stack, Python, Java DSA, web apps, and hackathon projects**<br>- Fun fact: **I love turning ideas into real working projects**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=220&section=header&text=Nagabhushana%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%7C%20AI-Powered%20Apps%20%7C%20Hackathon%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+intelligent+apps+with+AI;Turning+ideas+into+real+working+products" alt="Typing SVG" />
-</a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nagabhushana-n-b768a025b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nagabhushana N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagabhoshanabhat@gmail.com) 
 
-<br/>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nagu-developer-001&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nagu-developer-001&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagu-developer-001&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nagu-developer-001&color=a78bfa&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Nagu-developer-001?label=Followers&style=flat-square&color=a78bfa)
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-| LinkedIn | GitHub | Email | Instagram | Discord | Portfolio | Kaggle | Resume |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://linkedin.com/in/Nagabhushana-N" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a> | <a href="https://github.com/Nagu-developer-001" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a> | <a href="mailto:nagabhoshanabhat@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/A78BFA" width="55" height="55" alt="Email"/></a> | <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/instagram/A78BFA" width="55" height="55" alt="Instagram"/></a> | <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/discord/A78BFA" width="55" height="55" alt="Discord"/></a> | <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/></a> | <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/></a> | <a href="#" target="_blank"><img src="https://cdn.simpleicons.org/adobeacrobatreader/A78BFA" width="55" height="55" alt="Resume"/></a> |
-
-</div>
-
-> LinkedIn, GitHub, and Email are pulled from your source data. Instagram, Discord, Portfolio, Kaggle, and Resume weren't provided, so their links are set to `#` — replace with your real URLs.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nagu-developer-001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Nagu-developer-001&icon=1&color=1)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<div align="center">
-
-| Python | JavaScript | TypeScript | Java | C | HTML5 | CSS3 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55"/> |
-
-</div>
-
-### AI & ML
-
-<div align="center">
-
-| OpenCV |
-|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/> |
-
-</div>
-
-### Data Science
-
-<div align="center">
-
-| Streamlit | Chart.js |
-|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/streamlit/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/chartdotjs/A78BFA" width="55" height="55"/> |
-
-</div>
-
-### Web & App Dev
-
-<div align="center">
-
-| React | Next.js | Node.js | Express | Django | FastAPI | React Native | EJS | Vite | Socket.io |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/ejs/A78BFA" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/socketdotio/A78BFA" width="55" height="55"/> |
-
-</div>
-
-### Cloud & Infra
-
-<div align="center">
-
-| Vercel | Render | Jenkins | GitHub Actions |
-|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.simpleicons.org/vercel/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/render/A78BFA" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="55" height="55"/> |
-
-</div>
-
-### Databases
-
-<div align="center">
-
-| MongoDB | MySQL | SQLite |
-|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55"/> |
-
-</div>
-
-### Dev Tools
-
-<div align="center">
-
-| Git | GitHub | GitLab | NPM | Nodemon | Canva | JWT | Three.js |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/nodemon/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/canva/A78BFA" width="55" height="55"/> | <img src="https://cdn.simpleicons.org/jsonwebtokens/A78BFA" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="55" height="55"/> |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nagu-developer-001&show_icons=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagu-developer-001&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=Nagu-developer-001&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="70%"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagu-developer-001&theme=tokyo-night&hide_border=true&color=A78BFA&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭
-
-*"The best way to predict the future is to build it."*
-
-</div>
-
----
-
-```
-██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
-██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
-██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
-██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
-██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
-╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-
-   >> Status: shipping code, learning fast, building with AI <<
-```
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=150&section=footer" width="100%"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
