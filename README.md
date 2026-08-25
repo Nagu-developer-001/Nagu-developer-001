@@ -116,7 +116,9 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" style="filter: invert(1);"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="55" height="55" alt="GitLab"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/canva" width="55" height="55" alt="Canva"/></td>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="55" height="55" alt="Canva"/>
+</td>
   </tr>
 </table>
 
